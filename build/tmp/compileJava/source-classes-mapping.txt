@@ -1,0 +1,6 @@
+com/gradle/tutorial/FizzBuzzProcessor.java
+ com.gradle.tutorial.FizzBuzzProcessor
+Discord/ToDoList.java
+ Discord.ToDoList
+Discord/Jerm.java
+ Discord.Jerm
